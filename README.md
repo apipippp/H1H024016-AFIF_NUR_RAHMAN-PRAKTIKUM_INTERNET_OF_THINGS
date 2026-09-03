@@ -1,0 +1,5 @@
+# REKAPAN PRAKTIKUM INTERNET OF THINGS
+
+## Nama: Afif Nur Rahman
+## NIM: H1H024016
+## Shift: A
